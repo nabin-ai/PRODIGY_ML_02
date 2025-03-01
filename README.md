@@ -1,4 +1,3 @@
-# PRODIGY_ML_02
 # K-Means Clustering of Retail Store Customers
 
 This project uses the K-means clustering algorithm to group retail store customers based on their purchase history. The primary goal is to segment the customers into different groups to understand their behaviour better and potentially tailor marketing strategies accordingly.
